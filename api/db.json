@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "123",
+      "description": "123",
+      "userId": "100163763866544871952",
+      "id": 1
+    },
+    {
+      "title": "soem more",
+      "description": "moremore",
+      "userId": "100163763866544871952",
+      "id": 2
+    }
+  ]
+}
